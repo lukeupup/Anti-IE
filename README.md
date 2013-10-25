@@ -12,18 +12,19 @@ Anti-IE
 
 # 使用方法
 
-## 加载github上的文件
+## 1. 加载github上的文件
 
-在html里面加上：
+如果需要在版本低于8的IE中显示提示，只需在html里面加上：
 
     <!--[if lt IE 8]>
     <script type="text/javascript" src="http://lukeupup.github.io/Anti-IE/anti-ie.js"></script>
     <![endif]-->
     
 优点：懒人做法。一步到位，不需任何改动，不需要把源码拷到本地。
+
 缺点：速度较慢，有被墙或被github阻止的危险。**很可能因为版本更新导致js/css失效**。
 
-## 拷贝源码加到自己的项目中
+## 2. 拷贝源码加到自己的项目中
 
 分别下载anti-ie.js，anti-ie.css，img文件夹下的4张图片到自己的项目里。
 
@@ -40,3 +41,7 @@ Anti-IE
     </script>
     <script type="text/javascript" src="anti-ie.js"></script>
     <![endif]-->
+
+# Bug或需求
+
+提交Bug或需求到https://github.com/lukeupup/Anti-IE/issues，请尽量详细描述。
