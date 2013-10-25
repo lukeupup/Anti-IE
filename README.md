@@ -44,4 +44,4 @@ Anti-IE
 
 # Bug或需求
 
-提交Bug或需求到https://github.com/lukeupup/Anti-IE/issues，请尽量详细描述。
+提交Bug或需求到https://github.com/lukeupup/Anti-IE/issues ，请尽量详细描述。
