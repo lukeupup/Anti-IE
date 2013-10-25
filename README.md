@@ -17,7 +17,7 @@ Anti-IE
 如果需要在版本低于8的IE中显示提示，只需在html里面加上：
 
     <!--[if lt IE 8]>
-    <script type="text/javascript" src="http://lukeupup.github.io/Anti-IE/anti-ie.js"></script>
+    <script type="text/javascript" src="http://lukeupup.github.io/Anti-IE/resource/v1.0/anti-ie.js"></script>
     <![endif]-->
     
 优点：懒人做法。一步到位，不需任何改动，不需要把源码拷到本地。
