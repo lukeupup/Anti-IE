@@ -1,7 +1,9 @@
 Anti-IE
 =======
 
-弹出提示，跪求用户升级浏览器。
+弹出提示，跪求用户别用IE6/IE7/IE8/各种IE内核奇葩浏览器了。
+
+Notice the user that your website doesn't support IE6/7/8.
 
 ![DEMO](demo.png "DEMO")
 
