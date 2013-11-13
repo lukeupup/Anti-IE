@@ -1,5 +1,5 @@
 (function(){
-  if (/anti_ie_do_not_remind=1/.test(document.cookie) && false) {
+  if (/anti_ie_do_not_remind=1/.test(document.cookie)) {
     return;
   }
   var html = [
