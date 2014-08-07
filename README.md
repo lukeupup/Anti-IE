@@ -63,7 +63,7 @@ If you need configure the css and image path, you can define a global object cal
     <!--[if lt IE 8]>
     <script type="text/javascript">
       var anti_ie_config = {
-        cssPath: '../css/'
+        cssPath: '../css/',
         imgPath: '../img/anti-ie/'
       };
     </script>
