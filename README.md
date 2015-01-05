@@ -41,7 +41,7 @@ All you need is to copy the following code to your html:
 
 If your website still support IE7, change 8 to 7 in the conditional comment.
 
-优点：一步到位，仅需ctrl-c，alt-tab，ctrl-c三连击，不用谢。
+优点：一步到位，仅需ctrl-c，alt-tab，ctrl-v三连击，不用谢。
 
 Advantage: Very simple.
 
